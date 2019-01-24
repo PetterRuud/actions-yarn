@@ -1,4 +1,4 @@
-FROM node:11-slim
+FROM node:lts
 
 LABEL version="1.0.0"
 LABEL repository="https://github.com/nuxt/actions-yarn"
